@@ -32,7 +32,7 @@ pygame.init()
 FONT = pygame.font.Font(pygame.font.match_font('franklingothicmedium'), 25)
 DISPLAYSURF = pygame.display.set_mode((WINDOWWIDTH, WINDOWHEIGHT))
 fpsClock = pygame.time.Clock()    
-pygame.display.set_caption('What is love? Baby, don\'t hurt me, don\'t hurt me, no more.')
+pygame.display.set_caption('Game')
 
 #----------------------------------------------------------------------------------------------
 #Functions
