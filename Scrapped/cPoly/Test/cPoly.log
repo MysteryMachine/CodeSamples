@@ -1,0 +1,26 @@
+﻿Build started 6/16/2013 7:59:26 PM.
+     1>Project "C:\Users\salomao\Documents\GitHub\GameDevelopment\Demos\cPoly\cPoly.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Test\cPoly.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"../../SFML-2.0/include/" /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Test\\" /Fd"Test\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt cPoly.cpp main.cpp
+         main.cpp
+         cPoly.cpp
+     1>c:\users\salomao\documents\github\gamedevelopment\demos\cpoly\cpoly.cpp(52): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\salomao\documents\github\gamedevelopment\demos\cpoly\cpoly.cpp(206): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\salomao\documents\github\gamedevelopment\demos\cpoly\cpoly.cpp(216): warning C4018: '<' : signed/unsigned mismatch
+         Generating Code...
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\salomao\Documents\GitHub\GameDevelopment\ShadowLight\Test\cPoly.exe" /NOLOGO /LIBPATH:"../../SFML-2.0/lib/" "sfml-system-d.lib" "sfml-main-d.lib" "sfml-graphics-d.lib" "sfml-audio-d.lib" "sfml-network-d.lib" "sfml-window-d.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Test\cPoly.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\salomao\Documents\GitHub\GameDevelopment\ShadowLight\Test\cPoly.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\salomao\Documents\GitHub\GameDevelopment\ShadowLight\Test\cPoly.lib" /MACHINE:X86 Test\cPoly.obj
+         Test\main.obj
+         cPoly.vcxproj -> C:\Users\salomao\Documents\GitHub\GameDevelopment\ShadowLight\Test\cPoly.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\salomao\Documents\GitHub\GameDevelopment\ShadowLight\Test\cPoly.exe;#1" /manifest Test\cPoly.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Test\cPoly.unsuccessfulbuild".
+         Touching "Test\cPoly.lastbuildstate".
+     1>Done Building Project "C:\Users\salomao\Documents\GitHub\GameDevelopment\Demos\cPoly\cPoly.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:06.16

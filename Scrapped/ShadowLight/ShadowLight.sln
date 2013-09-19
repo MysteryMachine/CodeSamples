@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ShadowLight", "ShadowLight.vcxproj", "{2683B61B-79E3-4387-A65D-23E065D23919}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cPoly", "..\Demos\cPoly\cPoly.vcxproj", "{A8D022A2-DDF6-4DF8-B6E5-8E74717F3FCE}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Engine", "..\Engine\Engine.vcxproj", "{F57C8897-D949-4C02-9588-F4E3E293125E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+		Test|Win32 = Test|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2683B61B-79E3-4387-A65D-23E065D23919}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2683B61B-79E3-4387-A65D-23E065D23919}.Debug|Win32.Build.0 = Debug|Win32
+		{2683B61B-79E3-4387-A65D-23E065D23919}.Release|Win32.ActiveCfg = Release|Win32
+		{2683B61B-79E3-4387-A65D-23E065D23919}.Release|Win32.Build.0 = Release|Win32
+		{2683B61B-79E3-4387-A65D-23E065D23919}.Test|Win32.ActiveCfg = Test|Win32
+		{2683B61B-79E3-4387-A65D-23E065D23919}.Test|Win32.Build.0 = Test|Win32
+		{A8D022A2-DDF6-4DF8-B6E5-8E74717F3FCE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A8D022A2-DDF6-4DF8-B6E5-8E74717F3FCE}.Debug|Win32.Build.0 = Debug|Win32
+		{A8D022A2-DDF6-4DF8-B6E5-8E74717F3FCE}.Release|Win32.ActiveCfg = Release|Win32
+		{A8D022A2-DDF6-4DF8-B6E5-8E74717F3FCE}.Release|Win32.Build.0 = Release|Win32
+		{A8D022A2-DDF6-4DF8-B6E5-8E74717F3FCE}.Test|Win32.ActiveCfg = Test|Win32
+		{A8D022A2-DDF6-4DF8-B6E5-8E74717F3FCE}.Test|Win32.Build.0 = Test|Win32
+		{F57C8897-D949-4C02-9588-F4E3E293125E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F57C8897-D949-4C02-9588-F4E3E293125E}.Debug|Win32.Build.0 = Debug|Win32
+		{F57C8897-D949-4C02-9588-F4E3E293125E}.Release|Win32.ActiveCfg = Release|Win32
+		{F57C8897-D949-4C02-9588-F4E3E293125E}.Release|Win32.Build.0 = Release|Win32
+		{F57C8897-D949-4C02-9588-F4E3E293125E}.Test|Win32.ActiveCfg = Test|Win32
+		{F57C8897-D949-4C02-9588-F4E3E293125E}.Test|Win32.Build.0 = Test|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

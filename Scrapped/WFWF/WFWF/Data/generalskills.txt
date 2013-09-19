@@ -1,0 +1,24 @@
+P:Arm Strength
+P:Leg Strength
+P:Core Strength
+P:Back Strength
+P:Leg Endurance
+P:Arm Endurance
+P:Core Endurance
+P:Back Endurance
+P:Running Endurance
+P:Jump Height
+A:Arm Speed
+A:Leg Speed
+A:Running Speed
+M:Vocabulary
+M:Spatial Sense
+M:Awareness
+M:Pain Tolerance
+M:Focus
+C:Diction
+C:Outgoingness
+C:Acting
+C:Comedy
+C:Insults
+C:Foreign Language

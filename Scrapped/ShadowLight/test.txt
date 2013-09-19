@@ -1,0 +1,13 @@
+12
+N;R N;G N;G N;G N;G N;G N;G N;G N;G N;G N;G N;R
+N;R N;G N;G N;R N;G N;G N;G N;G N;G N;G N;G N;R
+N;R N;G N;G N;G N;G N;G N;G N;G N;G N;G N;G N;R
+N;R N;G N;G N;G N;G N;G N;G N;G N;G N;G N;G N;R
+N;R N;G N;G N;G N;G N;G N;G N;G N;G N;G N;G N;R
+N;R N;G N;G N;G N;G N;G N;G N;G N;G N;G N;G N;R
+N;R N;G N;G N;G N;G N;G N;G N;G N;G N;G N;G N;R
+N;R N;G N;G N;G N;G N;G N;G N;G N;G N;G N;G N;R
+N;R N;G N;G N;G N;G N;G N;G N;G N;G N;G N;G N;R
+N;R N;G N;G N;G N;G N;G N;G N;G N;G N;G N;G N;R
+N;R N;G N;G N;G N;G N;G N;G N;G N;G N;G N;G N;R
+N;R N;R N;R N;R N;R N;R N;R N;R N;R N;R N;R N;R
