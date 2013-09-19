@@ -1,3 +1,0 @@
-Grappling:1101:2121:Arm Strength:Leg Strength:Core Strength:Back Strength:Leg Endurance:Arm Endurance:Back Endurance:Pain Tolerance:Spatial Sense:Acting
-Face Promo:0011:2023:Acting:Diction:Awareness:Outgoingness:Comedy
-Heel Promo:0011:2023:Acting:Diction:Vocabulary:Awareness:Outgoingness:Insults
